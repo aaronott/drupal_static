@@ -1,19 +1,26 @@
 ## Drupal Static
 
+To be clear, this is just an idea at this point. I'm going to be playing a bit more to see how I can get it working.
+
 ### What is this?
+
  This is a script that helps to export a Drupal site to a static site.
 
 ### Doesn't this already exist?
+
  Kinda. It exists in the form of Boost and perhaps a few other modules.
 
 ### What's the diff?
+
  This script looks to take your site and build out the directory structure
  that your current site uses but it converts everything to HTML pages instead.
 
 ### How's it work?
+
  Well it doesn't work YET (@TODO Update this when it works)
 
 ### How will it work.
+
  There are a couple options
  - full site build
    This does what you'd expect, spider the whole site and create the layout
